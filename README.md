@@ -1,4 +1,4 @@
-assignment1
+NBA players prediction project
 ==============================
 
 The NBA draft is an annual event in which teams select players from their American colleges as well as international professional leagues to join their rosters. Moving to the NBA league is a big deal for any basketball player. 
